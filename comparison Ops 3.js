@@ -1,0 +1,10 @@
+let p=9845;
+let q=6789;
+console.log("equal to = ",p==q);
+console.log("strictly equal to = ",p===q);
+console.log("not equal to = ",p!=q);
+console.log("strictly not equal to = ",p!==q);
+console.log("greater than = ",p>q);
+console.log("greater than or equal to = ",p>=q);
+console.log("less than = ",p<q);
+console.log("less than or equal to = ",p<=q);

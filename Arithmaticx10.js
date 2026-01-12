@@ -1,0 +1,19 @@
+let d=856;
+let e=342;
+
+let addition = d + e;
+console.log("addition =", addition);
+let subtraction = d - e;
+console.log("subtraction =", subtraction);
+let multiplication = d * e;
+console.log("multiplication =", multiplication);
+let division = d / e;
+console.log("division =", division);
+let remainder = d % e;
+console.log("remainder =", remainder);
+let exp = e ** d;
+console.log("exponentiation =", exp);
+let inc = e++;
+console.log("increment =", inc);
+let dec = d--;
+console.log("decrement =", dec);

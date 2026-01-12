@@ -1,0 +1,19 @@
+let r=89;
+let s=23;
+
+let addition = r + s;
+console.log("addition =", addition);
+let subtraction = r - s;
+console.log("subtraction =", subtraction);
+let multiplication = r * s;
+console.log("multiplication =", multiplication);
+let division = r / s;
+console.log("division =", division);
+let remainder = r % s;
+console.log("remainder =", remainder);
+let exp = s ** r;
+console.log("exponentiation =", exp);
+let inc = s++;
+console.log("increment =", inc);
+let dec = r--;
+console.log("decrement =", dec);

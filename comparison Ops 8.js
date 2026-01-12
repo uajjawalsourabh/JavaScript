@@ -1,0 +1,10 @@
+let g=6564;
+let h=2345;
+console.log("equal to = ",g==h);
+console.log("strictly equal to = ",g===h);
+console.log("not equal to = ",g!=h);
+console.log("strictly not equal to = ",g!==h);
+console.log("greater than = ",g>h);
+console.log("greater than or equal to = ",g>=h);
+console.log("less than = ",g<h);
+console.log("less than or equal to = ",g<=h);

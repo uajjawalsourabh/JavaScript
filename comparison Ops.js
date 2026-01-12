@@ -1,0 +1,10 @@
+x = 75;
+y = 78;
+console.log("equal to = ",a==b);
+console.log("strictly equal to = ",a===b);
+console.log("not equal to = ",a!=b);
+console.log("strictly not equal to = ",a!==b);
+console.log("greater than = ",a>b);
+console.log("greater than or equal to = ",a>=b);
+console.log("less than = ",a<b);
+console.log("less than or equal to = ",a<=b);

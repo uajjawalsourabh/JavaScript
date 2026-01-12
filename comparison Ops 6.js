@@ -1,0 +1,10 @@
+let q=54532;
+let r=12345;
+console.log("equal to = ",q==r);
+console.log("strictly equal to = ",q===r);
+console.log("not equal to = ",q!=r);
+console.log("strictly not equal to = ",q!==r);
+console.log("greater than = ",q>r);
+console.log("greater than or equal to = ",q>=r);
+console.log("less than = ",q<r);
+console.log("less than or equal to = ",q<=r);

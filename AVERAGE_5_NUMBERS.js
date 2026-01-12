@@ -1,0 +1,14 @@
+let num1 = 10;
+let num2 = 20;
+let num3 = 30;
+let num4 = 40;
+let num5 = 50;
+let sum = num1 + num2 + num3 + num4 + num5;
+let average = sum / 5;
+console.log("Number 1: " + num1);
+console.log("Number 2: " + num2);
+console.log("Number 3: " + num3);
+console.log("Number 4: " + num4);
+console.log("Number 5: " + num5);
+console.log("Sum of 5 numbers: " + sum);
+console.log("Average of 5 numbers: " + average);

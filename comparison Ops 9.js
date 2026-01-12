@@ -1,0 +1,10 @@
+let e=43684;
+let f=12345;
+console.log("equal to = ",e==f);
+console.log("strictly equal to = ",e===f);
+console.log("not equal to = ",e!=f);
+console.log("strictly not equal to = ",e!==f);
+console.log("greater than = ",e>f);
+console.log("greater than or equal to = ",e>=f);
+console.log("less than = ",e<f);
+console.log("less than or equal to = ",e<=f);

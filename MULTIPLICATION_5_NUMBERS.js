@@ -1,0 +1,12 @@
+let num1 = 2;
+let num2 = 3;
+let num3 = 4;
+let num4 = 5;
+let num5 = 2;
+let product = num1 * num2 * num3 * num4 * num5;
+console.log("Number 1: " + num1);
+console.log("Number 2: " + num2);
+console.log("Number 3: " + num3);
+console.log("Number 4: " + num4);
+console.log("Number 5: " + num5);
+console.log("Product of 5 numbers: " + product);

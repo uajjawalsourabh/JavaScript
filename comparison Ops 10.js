@@ -1,0 +1,10 @@
+let k=3485;
+let l=1234;
+console.log("equal to = ",k==l);
+console.log("strictly equal to = ",k===l);
+console.log("not equal to = ",k!=l);
+console.log("strictly not equal to = ",k!==l);
+console.log("greater than = ",k>l);
+console.log("greater than or equal to = ",k>=l);
+console.log("less than = ",k<l);
+console.log("less than or equal to = ",k<=l);

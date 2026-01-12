@@ -1,0 +1,12 @@
+let num1 = 1000;
+let num2 = 2;
+let num3 = 5;
+let num4 = 10;
+let num5 = 2;
+let result = num1 / num2 / num3 / num4 / num5;
+console.log("Number 1 (Dividend): " + num1);
+console.log("Number 2 (Divisor): " + num2);
+console.log("Number 3 (Divisor): " + num3);
+console.log("Number 4 (Divisor): " + num4);
+console.log("Number 5 (Divisor): " + num5);
+console.log("Result of division: " + result);

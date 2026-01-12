@@ -1,0 +1,10 @@
+let D=51;
+let E=15;
+console.log("equal to = ",D==E);
+console.log("strictly equal to = ",D===E);
+console.log("not equal to = ",D!=E);
+console.log("strictly not equal to = ",D!==E);
+console.log("greater than = ",D>E);
+console.log("greater than or equal to = ",D>=E);
+console.log("less than = ",D<E);
+console.log("less than or equal to = ",D<=E);

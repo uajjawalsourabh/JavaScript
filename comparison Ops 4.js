@@ -1,0 +1,10 @@
+let v=876;
+let w=345;
+console.log("equal to = ",v==w);
+console.log("strictly equal to = ",v===w);
+console.log("not equal to = ",v!=w);
+console.log("strictly not equal to = ",v!==w);
+console.log("greater than = ",v>w);
+console.log("greater than or equal to = ",v>=w);
+console.log("less than = ",v<w);
+console.log("less than or equal to = ",v<=w);

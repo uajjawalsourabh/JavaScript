@@ -1,0 +1,26 @@
+let p = 32;
+let q = 14;
+
+let addition = p + q;
+console.log("addition =", addition);
+
+let subtraction = p - q;
+console.log("subtraction =", subtraction);
+
+let multiplication = p * q;
+console.log("multiplication =", multiplication);
+
+let division = p / q;
+console.log("division =", division);
+
+let remainder = p % q;
+console.log("remainder =", remainder);
+
+let exp = q ** p;
+console.log("exponentiation =", exp);
+
+let inc = q++;
+console.log("increment =", inc);
+
+let dec = p--;
+console.log("decrement =", dec);
